@@ -1,4 +1,4 @@
-package com.rainbowforest.userservice.service;
+package com.codebyarunyadav.userservice.service;
 
 import com.codebyarunyadav.userservice.entity.User;
 import com.codebyarunyadav.userservice.repository.UserRepository;

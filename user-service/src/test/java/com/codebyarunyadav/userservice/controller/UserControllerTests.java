@@ -1,4 +1,4 @@
-package com.rainbowforest.userservice.controller;
+package com.codebyarunyadav.userservice.controller;
 
 import com.codebyarunyadav.userservice.entity.User;
 import com.codebyarunyadav.userservice.service.UserService;
