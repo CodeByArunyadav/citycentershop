@@ -13,7 +13,7 @@ import org.springframework.session.data.redis.config.annotation.web.http.EnableR
 @EnableEurekaClient
 @EnableJpaRepositories
 @EnableFeignClients
-//@EnableWebSecurity
+@EnableWebSecurity
 @EnableRedisHttpSession
 public class OrderServiceApplication {
     public static void main(String[] args) {
