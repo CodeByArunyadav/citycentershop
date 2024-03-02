@@ -1,4 +1,4 @@
-package com.rainbowforest.apigateway;
+package com.codebyarunyadav.apigateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
